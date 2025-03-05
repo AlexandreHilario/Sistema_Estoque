@@ -6,7 +6,7 @@ Sistema CRUD desenvolvido com **Spring Boot, PostgreSQL e Thymeleaf** para geren
 ---
 
 ## 🚀 Tecnologias Utilizadas  
-- ☕ **Java 17** + **Spring Boot 3**  
+- ☕ **Java 21** + **Spring Boot 3**  
 - 🗄 **Spring Data JPA** (para comunicação com o banco)  
 - 🛢 **PostgreSQL** (banco de dados relacional)  
 - 🎨 **Thymeleaf** (para renderizar páginas HTML)  
@@ -18,7 +18,7 @@ Sistema CRUD desenvolvido com **Spring Boot, PostgreSQL e Thymeleaf** para geren
 
 ### 📌 1. Pré-requisitos  
 Antes de iniciar, você precisará ter instalado:  
-- ☕ [Java 17+](https://adoptium.net/)  
+- ☕ [Java 21+](https://adoptium.net/)  
 - 🛢 [PostgreSQL](https://www.postgresql.org/)  
 - 📦 [Maven](https://maven.apache.org/)  
 
